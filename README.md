@@ -22,7 +22,7 @@
 | **Course**                                                                                                                           | **Link**                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------- |
 | <a href="https://softuni.bg/trainings/2904/programming-basics-with-javascript-april-2020" > Programming Basics with JavaScript  </a> | <a href="https://softuni.bg/certificates/details/82279/e0c57169"> Link</a> |
-| <a href="https://softuni.bg/trainings/3133/js-fundamentals-september-2020" > JS Fundamentals                                    </a> | <a href="https://softuni.bg/certificates/details/93883/430ad565"> Link</a> |
+| <a href="https://softuni.bg/trainings/3133/js-fundamentals-september-2020" > JS Fundamentals                                    </a> | <a href="https://softuni.bg/certificates/details/96830/f508bb47"> Link</a> |
 
 
 </td>
