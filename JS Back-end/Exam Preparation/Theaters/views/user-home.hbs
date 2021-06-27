@@ -1,0 +1,17 @@
+<section>
+    <div class="aux">
+        <h1>Available Plays</h1>
+        <div class="home-buttons">
+            <a class="btn create-play" href="/play/create">Create Play</a>
+            <a class="btn create-play" href="">Sort by Date</a>
+            <a class="btn create-play" href="">Sort by Likes</a>
+        </div>
+    </div>
+    <div>
+        {{#each plays}}
+        {{>userPlayPartial}}
+        {{else}}
+        <h4>No plays yet...</h4>
+        {{/each}}
+    </div>
+</section>
