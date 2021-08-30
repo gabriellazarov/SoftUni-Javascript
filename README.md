@@ -26,7 +26,7 @@
 | <a href="https://softuni.bg/trainings/3217/js-advanced-january-2021" > JS Advanced </a> | <a href="https://softuni.bg/certificates/details/98224/7b03d224"> Link</a> |
 | <a href="https://softuni.bg/trainings/3218/js-applications-february-2021" > JS Applications </a> | <a href="https://softuni.bg/certificates/details/102303/86789331"> Link</a> |
 | <a href="https://softuni.bg/trainings/3357/js-back-end-may-2021" > JS Back-end </a> | <a href="https://softuni.bg/certificates/details/108965/0521178d"> Link</a> |
-| <a href="https://softuni.bg/trainings/3358/angular-july-2021" > Angular </a> | <a href=""> Link</a> |
+| <a href="https://softuni.bg/trainings/3358/angular-july-2021" > Angular </a> | <a href="https://softuni.bg/certificates/details/113311/a971bbef"> Link</a> |
 
 </td>
 </tr>
